@@ -52,8 +52,4 @@ O projeto incentiva a **curiosidade das crianças** e demonstra o poder do **Ard
 ---
 
 ## 👨‍💻 Autores
-Projeto desenvolvido por **Mateus Santos** e equipe, para fins **educacionais e de conscientização ambiental**.
-
----
-
-## 📁 Estrutura do Repositório
+Projeto desenvolvido por **Mateus Santos**, para fins **educacionais e de conscientização ambiental**.
