@@ -36,12 +36,12 @@ Crianças aprendem sobre:
 
 ## 🎥 Mídias do Projeto
 📸 Fotos do protótipo:
-- `foto1.jpeg`  
-- `foto2.jpeg`  
-- `foto3.jpeg`  
+- ![Lixeira](foto1.jpeg)  
+- ![Lixeira](foto2.jpeg)  
+- ![Lixeira](foto3.jpeg)
 
 🎬 Vídeo de demonstração:
-- `video.mp4`
+- 🎬 [Clique aqui para assistir ao vídeo de demonstração](video.mp4)
 
 ---
 
